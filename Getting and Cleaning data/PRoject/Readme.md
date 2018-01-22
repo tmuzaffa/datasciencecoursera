@@ -30,7 +30,7 @@ Additional information about the variables, data and transformations used in the
  # Review Criteria
 
 - Analysis R Script	run_analysis.R	R Script Link
-- [Tiday Data Set][https://github.com/tmuzaffa/datasciencecoursera/blob/master/Getting%20and%20Cleaning%20data/PRoject/tidyData.txt]
+- [Tiday Data Set](https://github.com/tmuzaffa/datasciencecoursera/blob/master/Getting%20and%20Cleaning%20data/PRoject/tidyData.txt)
 - Github Repo	Repo	Repo Link
 - Cookbook	CodeBook.md	Repo Link
 - README	ReadingItNow	Repo Link
