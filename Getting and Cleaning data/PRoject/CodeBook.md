@@ -1,18 +1,13 @@
 # Getting and Cleaning Data
-## The second largest heading
-###### The smallest heading
-
-
-######
 
 ## Author:Tasleem Muzaffar
-##Author:Tasleem Muzaffar
 
-###### Description
+
+#### Description
 
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
-###### List of Variables
+#### List of Variables
 
 - aL = activity labels
 - fr = features
